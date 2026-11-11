@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Fender Studio Pro">
+  <title>Fender Studio Pro</title>
+  <rect width="48" height="48" rx="10" fill="#242424"/>
+  <path d="M9 28V20h4v8m3-12v16m4-11v6m4-15v24m4-17v10m4-6v2m4-9v14m4-11v8" fill="none" stroke="#f3f3f3" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M9 37h30" fill="none" stroke="#a0a0a0" stroke-width="1" opacity=".65"/>
+</svg>
