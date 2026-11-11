@@ -1,6 +1,5 @@
 # 破壊しよう
 
-
 I'm a student at **Ritsumeikan University**, College of Information Science and Engineering.
 
 I create music videos, motion graphics, and music, while developing software and tools for creative work.
@@ -35,4 +34,4 @@ TouchDesigner · Fender Studio Pro · Motion Graphics · Music Production
 
 ---
 
-*Motion · Music · Code*
+*Design · Music · Code*
