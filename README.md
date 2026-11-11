@@ -25,9 +25,9 @@ I create music videos, motion graphics, and music, while developing software and
 
 **Creative Tools**
 
-<img src="https://skillicons.dev/icons?i=ae,blender&theme=dark" alt="After Effects, Blender" />
+<img src="https://skillicons.dev/icons?i=ae,ai,blender&theme=dark" alt="Adobe After Effects, Adobe Illustrator, Blender" />
 
-TouchDesigner · Motion Graphics · Music Production
+TouchDesigner · Fender Studio Pro · Motion Graphics · Music Production
 
 ### Projects
 
