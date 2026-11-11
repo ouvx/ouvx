@@ -1,40 +1,40 @@
 # 破壊しよう
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1200&color=8B949E&width=520&height=42&lines=Motion+Designer;Music+Producer;Software+Developer" alt="Motion Designer / Music Producer / Software Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1200&color=8B949E&width=410&height=27&lines=Motion+Designer;Music+Producer;Software+Developer" alt="Motion Designer / Music Producer / Software Developer" />
 
-I'm a student at **Ritsumeikan University**, College of Information Science and Engineering.
+Ritsumeikan University · College of Information Science and Engineering
 
-I create music videos, motion graphics, and music, while developing software and tools for creative work.
+Motion design / music production / software development.
 
-### About Me
+**About**
 
-- 🎬 **Motion Design / Video:** GYOUAN UTU (暁闇 鬱)
-- 🎵 **Music Production:** 
-- 💻 **Development:** Web apps, creative coding, and automation
-- 🎨 **Creative Studio:** Atelier Integral
+- Motion / Video: GYOUAN UTU (暁闇 鬱)
+- Music production / composition
+- Development: Web / creative coding
+- Atelier Integral
 
-### Tech Stack
+**Tech stack**
 
-**Languages**
+<sub>Languages</sub>
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,c&theme=dark" alt="TypeScript, JavaScript, Python, Rust, C" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,c&theme=dark" height="27" alt="TypeScript, JavaScript, Python, Rust, C" />
 
-**Frameworks & Development Tools**
+<sub>Frameworks / tools</sub>
 
-<img src="https://skillicons.dev/icons?i=react,threejs,nodejs,vite,cloudflare,git,github&theme=dark" alt="React, Three.js, Node.js, Vite, Cloudflare, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=react,threejs,nodejs,vite,cloudflare,git,github&theme=dark" height="27" alt="React, Three.js, Node.js, Vite, Cloudflare, Git, GitHub" />
 
-**Creative Tools**
+<sub>Creative tools</sub>
 
-<img src="https://skillicons.dev/icons?i=ae,ai,blender&theme=dark" alt="Adobe After Effects, Adobe Illustrator, Blender" />
+<img src="https://skillicons.dev/icons?i=ae,ai,blender&theme=dark" height="27" alt="After Effects, Illustrator, Blender" /> <img src="./assets/fender-studio-pro.svg" height="27" alt="Fender Studio Pro (custom icon)" />
 
-TouchDesigner · Fender Studio Pro · Motion Graphics · Music Production
+<sub>TouchDesigner · Fender Studio Pro</sub>
 
-### Projects
+**Projects**
 
-- [**Atelier Integral Website**](https://github.com/ouvx/atelier-integral-web) - Creative portfolio website built with TypeScript, React, and Three.js.
-- [**Integral Shorts Crosspost**](https://github.com/ouvx/Integral-shorts-crosspost) - A cross-platform publishing tool for short-form videos.
+- [Atelier Integral Website](https://github.com/ouvx/atelier-integral-web) · Portfolio site
+- [Integral Shorts Crosspost](https://github.com/ouvx/Integral-shorts-crosspost) · Short-video publishing
 
-### Contribution Snake
+**Contributions**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouvx/ouvx/output/github-contribution-grid-snake-dark.svg" />
@@ -42,6 +42,3 @@ TouchDesigner · Fender Studio Pro · Motion Graphics · Music Production
   <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/ouvx/ouvx/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-
-*Design · Music · Code*
