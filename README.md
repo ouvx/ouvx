@@ -15,17 +15,7 @@ Motion design / music production / software development.
 
 **Tech stack**
 
-<sub>Languages</sub>
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,c&theme=dark" height="27" alt="TypeScript, JavaScript, Python, Rust, C" />
-
-<sub>Frameworks / tools</sub>
-
-<img src="https://skillicons.dev/icons?i=react,threejs,nodejs,vite,cloudflare,git,github&theme=dark" height="27" alt="React, Three.js, Node.js, Vite, Cloudflare, Git, GitHub" />
-
-<sub>Creative tools</sub>
-
-<img src="https://skillicons.dev/icons?i=ae,ai,blender&theme=dark" height="27" alt="After Effects, Illustrator, Blender" /> <img src="./assets/fender-studio-pro.svg" height="27" alt="Fender Studio Pro (custom icon)" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,c,react,threejs,nodejs,vite,cloudflare,git,github,ae,ai,blender&perline=15&theme=dark" height="27" alt="TypeScript, JavaScript, Python, Rust, C, React, Three.js, Node.js, Vite, Cloudflare, Git, GitHub, After Effects, Illustrator, Blender" /> <a href="https://www.fender.com/pages/fender-studio"><img src="https://d21buns5ku92am.cloudfront.net/70362/images/699290-FS-lockup_B-H%20-2dfa97-large_webp-1788535092.webp" height="27" alt="Fender Studio (official wordmark)" /></a>
 
 <sub>TouchDesigner · Fender Studio Pro</sub>
 
