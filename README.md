@@ -1,5 +1,7 @@
 # 破壊しよう
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1200&color=8B949E&width=520&height=42&lines=Motion+Designer;Music+Producer;Software+Developer" alt="Motion Designer / Music Producer / Software Developer" />
+
 I'm a student at **Ritsumeikan University**, College of Information Science and Engineering.
 
 I create music videos, motion graphics, and music, while developing software and tools for creative work.
@@ -31,6 +33,14 @@ TouchDesigner · Fender Studio Pro · Motion Graphics · Music Production
 
 - [**Atelier Integral Website**](https://github.com/ouvx/atelier-integral-web) - Creative portfolio website built with TypeScript, React, and Three.js.
 - [**Integral Shorts Crosspost**](https://github.com/ouvx/Integral-shorts-crosspost) - A cross-platform publishing tool for short-form videos.
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouvx/ouvx/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouvx/ouvx/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/ouvx/ouvx/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
