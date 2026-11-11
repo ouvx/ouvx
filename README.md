@@ -1,7 +1,5 @@
 # 破壊しよう
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1200&color=8B949E&width=410&height=27&lines=Motion+Designer;Music+Producer;Software+Developer" alt="Motion Designer / Music Producer / Software Developer" />
-
 Ritsumeikan University · College of Information Science and Engineering
 
 Motion design / music production / software development.
