@@ -9,7 +9,7 @@ I create music videos, motion graphics, and music, while developing software and
 ### About Me
 
 - 🎬 **Motion Design / Video:** GYOUAN UTU (暁闇 鬱)
-- 🎵 **Music Production:** 壱 あれい
+- 🎵 **Music Production:** 
 - 💻 **Development:** Web apps, creative coding, and automation
 - 🎨 **Creative Studio:** Atelier Integral
 
