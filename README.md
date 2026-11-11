@@ -1,6 +1,5 @@
 # 破壊しよう
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1200&color=8B949E&width=520&height=42&lines=Motion+Designer;Music+Producer;Software+Developer" alt="Motion Designer / Music Producer / Software Developer" />
 
 I'm a student at **Ritsumeikan University**, College of Information Science and Engineering.
 
