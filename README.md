@@ -1,6 +1,6 @@
 # 破壊しよう
 
-https://count.getloli.com/@ouvx?theme=booru-ffsr&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+![Profile Views](https://count.getloli.com/@ouvx?theme=booru-fsrf&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 Ritsumeikan University · College of Information Science and Engineering
 
